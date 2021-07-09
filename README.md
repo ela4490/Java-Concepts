@@ -1,4 +1,4 @@
-# Java Concepts
+### Java Concepts
 
 This module consists of important concepts in Java such as:
 1. OOPS concepts (Data Abstraction, Encapsulation, Inheritance, Polymorphism)
